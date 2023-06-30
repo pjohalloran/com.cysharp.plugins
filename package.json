@@ -1,7 +1,7 @@
 {
   "name": "com.cysharp.plugins",
   "displayName": "Cysharp Plugins",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "unity": "2021.3",
   "description": "Various DLL plugins required for Cysharp unity packages.",
   "keywords": [],
